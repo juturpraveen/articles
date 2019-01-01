@@ -11,7 +11,10 @@ The idea comes from how visual cortex in brain interprets from visual inputs fro
 
 ### How does convolutional neural network work?
 CNNs have 2 components that do the thing:
-1. Hidden layer / feature extraction part: This is where individual features are extracted. Like ear on a face, wheel of a car. The hidden layer uses techniques of convolutions and pooling.
+1. Hidden layer / feature extraction part: This is where individual features are extracted. Like ear on a face, wheel of a car. The hidden layer uses techniques of:
+  a) Convolutions 
+  b) Pooling.
 2. Classification part: On top of the extracted features, this classifier assigns the probability of image being a certain object. Like the object has 80% chance of being a cat.
 
-### How does convolution and pooling work?
+## Feature extraction: Convolution and Pooling
+### How does convolution work?
