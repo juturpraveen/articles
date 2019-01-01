@@ -25,3 +25,6 @@ Convolution is a mathematical combination of 2 functions to produce 3rd function
 Feature map is obtained by sliding the kernel or filter over the input. At each location matrix multiplication is performed to sum up the result into feature map.
 
 Numerous convolutions are performed using different kernels/filters resulting in different numerous feature maps. 
+
+### What is pooling?
+After convolution layer, pooling layer is added. Pooling layer is added to reduce the dimensionality to reduce the number of parameters and computation in the network.
