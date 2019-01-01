@@ -17,4 +17,11 @@ CNNs have 2 components that do the thing:
 2. Classification part: On top of the extracted features, this classifier assigns the probability of image being a certain object. Like the object has 80% chance of being a cat.
 
 ## Feature extraction: Convolution and Pooling
+
 ### How does convolution work?
+Convolution is a mathematical combination of 2 functions to produce 3rd function. Input data is 1s function and the kernel(filter) is the 2nd function. These both are combined to produce feature map (the 3rd function).
+
+#### How do the 1st and 2nd functions are combined?
+Feature map is obtained by sliding the kernel or filter over the input. At each location matrix multiplication is performed to sum up the result into feature map.
+
+Numerous convolutions are performed using different kernels/filters resulting in different numerous feature maps. 
