@@ -1,2 +1,5 @@
-# articles
-articles that helped me understand stuff
+# Articles
+Articles that helped me understand stuff
+
+
+http://colah.github.io/
