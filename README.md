@@ -1,8 +1,7 @@
 ## Articles
 Articles that helped me understand stuff
-
-
-http://colah.github.io/
+Excellent article on convolutions:
+https://medium.freecodecamp.org/an-intuitive-guide-to-convolutional-neural-networks-260c2de0a050
 
 ### What is convolution?
 Convolution is a mathematical operation performed on 2 functions to ouput a 3rd function that expresses how one input is modified by the other.
