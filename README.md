@@ -1,7 +1,9 @@
 ## Articles
 Articles that helped me understand stuff
 Excellent article on convolutions:
+
 https://medium.freecodecamp.org/an-intuitive-guide-to-convolutional-neural-networks-260c2de0a050
+
 https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/
 
 ### What is convolution?
