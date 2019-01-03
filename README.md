@@ -21,6 +21,9 @@ The area that filter or kernel covers is called receptive field.
 
 And the numbers within the filter / kernel are called parameters or weights.
 
+## What is translation invariance? Why is it important? What layers are translation invariant?
+
+
 ### How does convolutional neural network work?
 CNNs have 2 components that do the thing:
 1. Hidden layer / feature extraction part: This is where individual features are extracted. Like ear on a face, wheel of a car. The hidden layer uses techniques of:
