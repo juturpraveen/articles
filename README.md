@@ -6,6 +6,8 @@ https://medium.freecodecamp.org/an-intuitive-guide-to-convolutional-neural-netwo
 
 https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/
 
+http://neuralnetworksanddeeplearning.com/
+
 ### What is convolution?
 Convolution is a mathematical operation performed on 2 functions to ouput a 3rd function that expresses how one input is modified by the other.
 
