@@ -45,3 +45,5 @@ Numerous convolutions are performed using different kernels/filters resulting in
 
 ### What is pooling?
 After convolution layer, pooling layer is added. Pooling layer is added to reduce the dimensionality to reduce the number of parameters and computation in the network.
+
+...To be continued, but i dont know when.
